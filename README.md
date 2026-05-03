@@ -15,39 +15,96 @@ I engineer scalable, intelligent software systems that solve real-world problems
 ## Technical Skills
 
 ### Frontend Development
-- **Languages**: HTML, CSS, JavaScript, TypeScript
-- **Frameworks**: React, Next.js
-- **Styling**: Tailwind CSS
-- **State Management**: React Context, Advanced React patterns
+| Skill | Proficiency | Experience |
+|-------|-------------|------------|
+| React | Advanced | Production Applications |
+| Next.js | Advanced | Full-Stack Web Apps |
+| TypeScript | Advanced | Type-Safe Development |
+| JavaScript | Expert | Core Web Development |
+| HTML/CSS | Expert | Responsive Design |
+| Tailwind CSS | Advanced | Modern Styling |
 
 ### Backend Development
-- **Python**: Django, Django REST Framework
-- **Node.js**: JavaScript runtime for server-side applications
-- **C#**: Object-oriented programming
-- **ASP.NET Core**: C# web framework
+| Skill | Proficiency | Experience |
+|-------|-------------|------------|
+| Python | Expert | Django Applications |
+| Django | Advanced | REST APIs & Web Services |
+| Django REST Framework | Advanced | API Development |
+| Node.js | Advanced | Server-Side JavaScript |
+| C# | Intermediate | Object-Oriented Programming |
+| ASP.NET Core | Intermediate | C# Web Framework |
 
 ### Mobile Development
-- **Flutter**: Cross-platform framework (iOS, Android)
-- **Dart**: Flutter's programming language
+| Skill | Proficiency | Experience |
+|-------|-------------|------------|
+| Flutter | Intermediate | Cross-Platform Development |
+| Dart | Intermediate | Flutter Applications |
 
-### DevOps & Infrastructure
-- **Containerization**: Docker
-- **Cloud Platforms**: Vercel, Render, AWS Fundamentals
-- **Version Control**: Git, GitHub
-
-### Scripting & Automation
-- **PowerShell**: System administration and automation
-- **Batchfile**: Windows batch scripting
-
-### Databases & Data
-- **Relational**: PostgreSQL, MySQL
-- **NoSQL**: MongoDB
-- **Data Processing**: Feature extraction, data preprocessing
+### Database & Data
+| Skill | Proficiency | Use Cases |
+|-------|-------------|-----------|
+| PostgreSQL | Advanced | Relational Data, Production |
+| MySQL | Advanced | Relational Databases |
+| MongoDB | Intermediate | NoSQL Applications |
+| Data Preprocessing | Advanced | ML Pipelines |
+| Feature Extraction | Advanced | AI Systems |
 
 ### AI & Machine Learning
-- **Recommendation Systems**: Movie recommendations, content suggestion engines
-- **Profile Screening**: Candidate evaluation and ranking
-- **Model Evaluation**: Performance metrics and validation
+| Skill | Proficiency | Application |
+|-------|-------------|-------------|
+| Recommendation Systems | Advanced | Movie Recommendations, Content Suggestions |
+| Profile Screening | Advanced | Candidate Evaluation, Ranking Algorithms |
+| Model Evaluation | Intermediate | Performance Metrics, Validation |
+
+### DevOps & Infrastructure
+| Skill | Proficiency | Experience |
+|-------|-------------|------------|
+| Docker | Advanced | Containerization, Deployment |
+| Git/GitHub | Expert | Version Control, Collaboration |
+| Vercel | Advanced | Frontend Deployment |
+| Render | Advanced | Backend Deployment |
+| AWS | Intermediate | Cloud Fundamentals |
+
+### Scripting & Automation
+| Skill | Proficiency | Use Cases |
+|-------|-------------|-----------|
+| PowerShell | Intermediate | System Administration |
+| Batchfile | Intermediate | Windows Automation |
+
+---
+
+## Technology Stack by Project Type
+
+### Web Applications
+```
+Frontend:  React + Next.js + TypeScript + Tailwind CSS
+Backend:   Django REST APIs / Node.js
+Database:  PostgreSQL / MySQL
+Deployment: Vercel / Render / Docker
+```
+
+### AI/ML Systems
+```
+Data:      Python + pandas + numpy
+Model:     Machine Learning algorithms
+Backend:   Django + Python
+Database:  PostgreSQL for data storage
+```
+
+### Full-Stack Platforms
+```
+Frontend:  React / Next.js with TypeScript
+Backend:   Django or ASP.NET Core
+Database:  PostgreSQL or MySQL
+DevOps:    Docker for containerization
+```
+
+### Mobile Applications
+```
+Framework: Flutter
+Language:  Dart
+Deployment: iOS / Android
+```
 
 ---
 
@@ -75,50 +132,6 @@ DATA & PERSISTENCE LAYER
 ├─ ML model inference
 └─ Data monitoring and insights
 ```
-
----
-
-## Projects & Work
-
-### Healthcare Technology
-**MedLink System** - [GitHub](https://github.com/kingblessolivier/medlink-system)
-- Appointment booking platform connecting patients with healthcare providers
-- Tech Stack: React, Django, PostgreSQL, Maps API
-- Key Features: Real-time hospital discovery, appointment scheduling, notification system
-
-### AI & Machine Learning
-**AI Profile Screening System** - [GitHub](https://github.com/kingblessolivier/Ai-Profile-Screening-System)
-- Machine learning pipeline for candidate evaluation and ranking
-- Tech Stack: Python, Machine Learning, Django
-- Focus: Feature extraction, scoring algorithms, explainable AI
-
-**Candidate Screening System** - [GitHub](https://github.com/kingblessolivier/candidate_screening_system)
-- Automated HR recruitment evaluation tool
-- Tech Stack: Python, Django, AI/ML
-- Features: Profile analysis, scoring API, recruiter dashboard
-
-**CineRec** - [GitHub](https://github.com/kingblessolivier/CineRec)
-- Movie recommendation engine with analytics
-- Tech Stack: Python, Django, Machine Learning
-- Features: Collaborative filtering, trend analysis, performance dashboards
-
-### Property Management
-**Property Management System** - [GitHub](https://github.com/kingblessolivier/Property_management)
-- Full-stack application for tenant and rent management
-- Tech Stack: Django, PostgreSQL
-- Features: Payment tracking, tenant profiles, automated notifications
-
-### Civic & Public Services
-**Citizen Engagement System** - [GitHub](https://github.com/kingblessolivier/citizen_engagement_system)
-- Platform for government-citizen feedback and service requests
-- Tech Stack: Django, REST APIs
-- Features: Ticket management, workflow automation, role-based access
-
-### Education Technology
-**ClassHub** - [GitHub](https://github.com/kingblessolivier/ClassHub)
-- Academic assignment submission and management platform
-- Tech Stack: Django, MySQL
-- Features: Assignment submission, grading workflow, feedback system
 
 ---
 
@@ -156,16 +169,7 @@ Bachelor of Science in Information Technology (Expected Graduation: 2027)
 
 ---
 
-## Project Statistics
-
-- 21 Projects Built
-- 10 Systems Designed
-- 6 Professional Certifications
-- Multiple production deployments
-
----
-
-## Development Methodology
+## Development Expertise
 
 - Full-stack system design and implementation
 - RESTful API architecture
@@ -174,6 +178,7 @@ Bachelor of Science in Information Technology (Expected Graduation: 2027)
 - Git-based version control and collaborative workflow
 - Containerized deployments with Docker
 - Performance monitoring and optimization
+- AI/ML system design and implementation
 
 ---
 
