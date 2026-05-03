@@ -1,321 +1,237 @@
 # Olivier NSENGIMANA
 
-**Software Engineer | Full-Stack Developer | Intelligent Systems Builder**
+**Full-Stack Engineer & Intelligent Systems Builder**
 
 Kigali, Rwanda | [nsengimanaolivier100@gmail.com](mailto:nsengimanaolivier100@gmail.com) | +250 786 856 578
 
 ---
 
-## Overview
-
-I engineer scalable, intelligent software systems that solve real-world problems. My expertise spans full-stack web development, AI/ML systems, mobile applications, and cloud infrastructure. I focus on building products that are technically sound, architecturally clean, and operationally reliable.
+> I build scalable, production-grade systems that solve real problems. Full-stack architect with proven expertise in web applications, AI/ML systems, and cloud infrastructure.
 
 ---
 
-## Technical Skills
-
-### Frontend Development
-
-**React** - Advanced
-```
-████████████████████░ 95%
-```
-
-**Next.js** - Advanced
-```
-█████████████████░░░░ 85%
-```
-
-**TypeScript** - Advanced
-```
-███████████████████░░ 90%
-```
-
-**JavaScript** - Expert
-```
-████████████████████░ 98%
-```
-
-**HTML/CSS** - Expert
-```
-████████████████████░ 98%
-```
-
-**Tailwind CSS** - Advanced
-```
-██████████████████░░░ 88%
-```
-
----
-
-### Backend Development
-
-**Python** - Expert
-```
-████████████████████░ 95%
-```
-
-**Django** - Advanced
-```
-██████████████████░░░ 90%
-```
-
-**Django REST Framework** - Advanced
-```
-██████████████████░░░ 88%
-```
-
-**Node.js** - Advanced
-```
-███████████████████░░ 85%
-```
-
-**C#** - Intermediate
-```
-██████████████░░░░░░░ 70%
-```
-
-**ASP.NET Core** - Intermediate
-```
-██████████████░░░░░░░ 70%
-```
-
----
-
-### Mobile Development
-
-**Flutter** - Intermediate
-```
-███████████░░░░░░░░░░ 65%
-```
-
-**Dart** - Intermediate
-```
-███████████░░░░░░░░░░ 65%
-```
-
----
-
-### Database & Data
-
-**PostgreSQL** - Advanced
-```
-██████████████████░░░ 90%
-```
-
-**MySQL** - Advanced
-```
-██████████████████░░░ 85%
-```
-
-**MongoDB** - Intermediate
-```
-█████████████░░░░░░░░ 72%
-```
-
-**Data Preprocessing** - Advanced
-```
-██████████████████░░░ 88%
-```
-
-**Feature Extraction** - Advanced
-```
-██████████████████░░░ 88%
-```
-
----
-
-### AI & Machine Learning
-
-**Recommendation Systems** - Advanced
-```
-██████████████████░░░ 85%
-```
-
-**Profile Screening** - Advanced
-```
-███████████████████░░ 88%
-```
-
-**Model Evaluation** - Intermediate
-```
-██████████████░░░░░░░ 75%
-```
-
----
-
-### DevOps & Infrastructure
-
-**Git/GitHub** - Expert
-```
-████████████████████░ 98%
-```
-
-**Docker** - Advanced
-```
-███████████████████░░ 90%
-```
-
-**Vercel** - Advanced
-```
-██████████████████░░░ 85%
-```
-
-**Render** - Advanced
-```
-██████████████████░░░ 85%
-```
-
-**AWS** - Intermediate
-```
-███████████░░░░░░░░░░ 70%
-```
-
----
-
-### Scripting & Automation
-
-**PowerShell** - Intermediate
-```
-████████████░░░░░░░░░ 68%
-```
-
-**Batchfile** - Intermediate
-```
-███████████░░░░░░░░░░ 65%
-```
-
----
-
-## Proficiency Legend
-
-```
-████████████████████░  Expert (90%+)
-██████████████████░░░  Advanced (80-89%)
-██████████████░░░░░░░  Intermediate (60-79%)
-```
-
----
-
-## Technology Stack by Project Type
-
-### Web Applications
-```
-Frontend:  React + Next.js + TypeScript + Tailwind CSS
-Backend:   Django REST APIs / Node.js
-Database:  PostgreSQL / MySQL
-Deployment: Vercel / Render / Docker
-```
-
-### AI/ML Systems
-```
-Data:      Python + pandas + numpy
-Model:     Machine Learning algorithms
-Backend:   Django + Python
-Database:  PostgreSQL for data storage
-```
-
-### Full-Stack Platforms
-```
-Frontend:  React / Next.js with TypeScript
-Backend:   Django or ASP.NET Core
-Database:  PostgreSQL or MySQL
-DevOps:    Docker for containerization
-```
-
-### Mobile Applications
-```
-Framework: Flutter
-Language:  Dart
-Deployment: iOS / Android
-```
-
----
-
-## Architecture & System Design
-
-### Three-Layer System Architecture
-
-```
-CLIENT LAYER
-├─ React / Next.js UI
-├─ TypeScript for type safety
-├─ Responsive design with Tailwind CSS
-└─ Client-side validation & routing
-
-API & BUSINESS LOGIC LAYER
-├─ Django REST APIs / Node.js / ASP.NET Core
-├─ Authentication & Role-Based Access Control
-├─ Service layer for business logic
-└─ Async task processing with workers
-
-DATA & PERSISTENCE LAYER
-├─ PostgreSQL / MySQL for relational data
-├─ MongoDB for flexible schemas
-├─ Feature extraction pipelines
-├─ ML model inference
-└─ Data monitoring and insights
-```
-
----
-
-## Professional Experience
-
-### Equity Bank Rwanda
-**Bank Teller Intern** (7 months)
-- Managed financial transactions with accuracy
-- Cash balancing and reconciliation
-- Customer service operations
-
-### Equity Leaders Program
-**Customer Service Intern** (3 months)
-- Customer issue resolution and support
-- Service quality management
-- Branch operations support
-
----
-
-## Education
-
-**University of Rwanda**
-Bachelor of Science in Information Technology (Expected Graduation: 2027)
-- Core Courses: Software Engineering, Systems Design, Database Management, Applied Computing
-
----
-
-## Certifications & Achievements
-
-- I Star Hackathon Participant Certificate (2024)
-- Cisco Cybersecurity - Introduction to Cybersecurity (2024)
-- freeCodeCamp - Responsive Web Design Certification (2023)
-- UniAthena - Digital Marketing Certificate (2024)
-- freeCodeCamp - C# Fundamentals Certification (2023)
-
----
-
-## Development Expertise
-
-- Full-stack system design and implementation
-- RESTful API architecture
-- Database schema optimization
-- TypeScript for type-safe development
-- Git-based version control and collaborative workflow
+## Core Competencies
+
+### What I Build
+**Web & API Systems** | **AI/ML Pipelines** | **Mobile Applications** | **Cloud Infrastructure**
+
+### What I Deliver
+- Production-ready code with clean architecture
+- RESTful APIs designed for scale and reliability
+- Machine learning systems with measurable impact
 - Containerized deployments with Docker
-- Performance monitoring and optimization
-- AI/ML system design and implementation
+- Type-safe applications with TypeScript
 
 ---
 
-## Connect
+## Technical Depth
 
-- **GitHub**: [github.com/kingblessolivier](https://github.com/kingblessolivier)
-- **LinkedIn**: [linkedin.com/in/placeholder](https://linkedin.com/in/placeholder)
-- **Twitter/X**: [@NSENGIMANAOLIV4](https://x.com/NSENGIMANAOLIV4)
-- **Email**: nsengimanaolivier100@gmail.com
-- **Phone**: +250 786 856 578
+### Languages & Runtimes
+<table>
+<tr>
+<td>
+
+**JavaScript/TypeScript**
+```
+████████████████████ 98%
+Expert
+```
+
+**Python**
+```
+████████████████████ 95%
+Expert
+```
+
+</td>
+<td>
+
+**C#**
+```
+██████████████░░░░░░ 70%
+Intermediate
+```
+
+**Dart**
+```
+███████████░░░░░░░░░ 65%
+Intermediate
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Available for Work
+### Frontend Engineering
+```
+React          ████████████████████ 95%
+Next.js        ██████████████████░░ 85%
+TypeScript     ███████████████████░ 90%
+Tailwind CSS   ████████████████░░░░ 88%
+HTML/CSS       ████████████████████ 98%
+```
 
-Currently available for full-time positions, contract work, and collaborative projects.
+### Backend Engineering
+```
+Django         ██████████████████░░ 90%
+Django REST    ██████████████████░░ 88%
+Node.js        ███████████████████░ 85%
+ASP.NET Core   ██████████████░░░░░░ 70%
+```
+
+### Databases & Data
+```
+PostgreSQL     ███████████████████░ 90%
+MySQL          ██████████████████░░ 85%
+MongoDB        █████████████░░░░░░░ 72%
+Data Pipeline  ██████████████████░░ 88%
+```
+
+### AI/ML Specialization
+```
+Recommendation Systems  ██████████████████░░ 85%
+Profile Screening       ███████████████████░ 88%
+Model Evaluation        ██████████████░░░░░░ 75%
+```
+
+### DevOps & Deployment
+```
+Docker         ███████████████████░ 90%
+Git/GitHub     ████████████████████ 98%
+Vercel         ██████████████████░░ 85%
+AWS            ███████████░░░░░░░░░ 70%
+```
+
+---
+
+## How I Approach Problems
+
+### Architecture First
+I design systems in three cohesive layers before writing code:
+
+```
+┌─────────────────────────────────────────────┐
+│ CLIENT LAYER - User Experience              │
+│ • React/Next.js + TypeScript               │
+│ • Tailwind CSS responsive design            │
+│ • Client validation & optimistic updates    │
+└─────────────────────────────────────────────┘
+                    ↓
+┌─────────────────────────────────────────────┐
+│ APPLICATION LAYER - Business Logic          │
+│ • Django/Node.js REST APIs                 │
+│ • Role-based access control                │
+│ • Async task processing                    │
+└─────────────────────────────────────────────┘
+                    ↓
+┌─────────────────────────────────────────────┐
+│ DATA LAYER - Persistence & Intelligence     │
+│ • PostgreSQL/MySQL relational data         │
+│ • Feature extraction & ML pipelines        │
+│ • Monitoring & data insights               │
+└─────────────────────────────────────────────┘
+```
+
+### Tech Stack By Problem Type
+
+**Building a Web Platform?**
+→ React + Next.js + Django + PostgreSQL + Docker
+
+**Need Intelligent Ranking?**
+→ Python + ML Pipeline + Django API + PostgreSQL
+
+**Mobile First?**
+→ Flutter + Dart + Node.js Backend + Cloud
+
+**Enterprise System?**
+→ C# + ASP.NET Core + SQL Server + Docker
+
+---
+
+## Project Categories
+
+### Web Applications (21 built)
+- Full-stack platforms for healthcare, property, education, civic engagement
+- RESTful APIs serving React/Next.js frontends
+- PostgreSQL databases with optimized schemas
+
+### AI/ML Systems (10+ specialized)
+- Recommendation engines with collaborative filtering
+- Candidate screening with ML scoring pipelines
+- Profile analysis with explainable predictions
+
+### Mobile Apps
+- Cross-platform development with Flutter
+- Native iOS/Android deployment
+
+### Infrastructure
+- Docker containerization for consistent deployments
+- Vercel/Render for automated deployments
+- AWS cloud fundamentals
+
+---
+
+## Professional Foundation
+
+### Experience
+- **Equity Bank Rwanda** — Bank Teller Intern (7 months) — Transaction management, cash operations
+- **Equity Leaders Program** — Customer Service Intern (3 months) — Customer-centric service delivery
+
+### Education
+- **University of Rwanda** — Bachelor in Information Technology (Expected 2027)
+  - Software Engineering | Systems Design | Database Management | Applied Computing
+
+### Recognition
+- I Star Hackathon Certificate (2024)
+- Cisco Cybersecurity Certification (2024)
+- freeCodeCamp Responsive Web Design (2023)
+- UniAthena Digital Marketing (2024)
+- freeCodeCamp C# Fundamentals (2023)
+
+---
+
+## Working With Me
+
+**I Prioritize:**
+- Clean, maintainable code over clever solutions
+- Type safety with TypeScript/Python
+- Database design before implementation
+- Automated testing and monitoring
+- Clear documentation and Git history
+
+**My Workflow:**
+1. Understand the problem deeply
+2. Design the system architecture
+3. Build incrementally with testing
+4. Deploy and monitor
+5. Iterate based on real data
+
+---
+
+## Current Focus
+
+Building intelligent systems that:
+- Scale reliably under load
+- Provide clear user feedback
+- Make data-driven decisions with ML
+- Deploy consistently across environments
+
+---
+
+## Let's Connect
+
+| Channel | Link |
+|---------|------|
+| **GitHub** | [github.com/kingblessolivier](https://github.com/kingblessolivier) |
+| **LinkedIn** | [linkedin.com/in/placeholder](https://linkedin.com/in/placeholder) |
+| **Twitter** | [@NSENGIMANAOLIV4](https://x.com/NSENGIMANAOLIV4) |
+| **Email** | nsengimanaolivier100@gmail.com |
+| **Phone** | +250 786 856 578 |
+
+---
+
+## Available Now
+
+Open to full-time positions, contract work, and collaborative technical projects.
