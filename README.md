@@ -15,61 +15,185 @@ I engineer scalable, intelligent software systems that solve real-world problems
 ## Technical Skills
 
 ### Frontend Development
-| Skill | Proficiency | Experience |
-|-------|-------------|------------|
-| React | Advanced | Production Applications |
-| Next.js | Advanced | Full-Stack Web Apps |
-| TypeScript | Advanced | Type-Safe Development |
-| JavaScript | Expert | Core Web Development |
-| HTML/CSS | Expert | Responsive Design |
-| Tailwind CSS | Advanced | Modern Styling |
+
+**React** - Advanced
+```
+████████████████████░ 95%
+```
+
+**Next.js** - Advanced
+```
+█████████████████░░░░ 85%
+```
+
+**TypeScript** - Advanced
+```
+███████████████████░░ 90%
+```
+
+**JavaScript** - Expert
+```
+████████████████████░ 98%
+```
+
+**HTML/CSS** - Expert
+```
+████████████████████░ 98%
+```
+
+**Tailwind CSS** - Advanced
+```
+██████████████████░░░ 88%
+```
+
+---
 
 ### Backend Development
-| Skill | Proficiency | Experience |
-|-------|-------------|------------|
-| Python | Expert | Django Applications |
-| Django | Advanced | REST APIs & Web Services |
-| Django REST Framework | Advanced | API Development |
-| Node.js | Advanced | Server-Side JavaScript |
-| C# | Intermediate | Object-Oriented Programming |
-| ASP.NET Core | Intermediate | C# Web Framework |
+
+**Python** - Expert
+```
+████████████████████░ 95%
+```
+
+**Django** - Advanced
+```
+██████████████████░░░ 90%
+```
+
+**Django REST Framework** - Advanced
+```
+██████████████████░░░ 88%
+```
+
+**Node.js** - Advanced
+```
+███████████████████░░ 85%
+```
+
+**C#** - Intermediate
+```
+██████████████░░░░░░░ 70%
+```
+
+**ASP.NET Core** - Intermediate
+```
+██████████████░░░░░░░ 70%
+```
+
+---
 
 ### Mobile Development
-| Skill | Proficiency | Experience |
-|-------|-------------|------------|
-| Flutter | Intermediate | Cross-Platform Development |
-| Dart | Intermediate | Flutter Applications |
+
+**Flutter** - Intermediate
+```
+███████████░░░░░░░░░░ 65%
+```
+
+**Dart** - Intermediate
+```
+███████████░░░░░░░░░░ 65%
+```
+
+---
 
 ### Database & Data
-| Skill | Proficiency | Use Cases |
-|-------|-------------|-----------|
-| PostgreSQL | Advanced | Relational Data, Production |
-| MySQL | Advanced | Relational Databases |
-| MongoDB | Intermediate | NoSQL Applications |
-| Data Preprocessing | Advanced | ML Pipelines |
-| Feature Extraction | Advanced | AI Systems |
+
+**PostgreSQL** - Advanced
+```
+██████████████████░░░ 90%
+```
+
+**MySQL** - Advanced
+```
+██████████████████░░░ 85%
+```
+
+**MongoDB** - Intermediate
+```
+█████████████░░░░░░░░ 72%
+```
+
+**Data Preprocessing** - Advanced
+```
+██████████████████░░░ 88%
+```
+
+**Feature Extraction** - Advanced
+```
+██████████████████░░░ 88%
+```
+
+---
 
 ### AI & Machine Learning
-| Skill | Proficiency | Application |
-|-------|-------------|-------------|
-| Recommendation Systems | Advanced | Movie Recommendations, Content Suggestions |
-| Profile Screening | Advanced | Candidate Evaluation, Ranking Algorithms |
-| Model Evaluation | Intermediate | Performance Metrics, Validation |
+
+**Recommendation Systems** - Advanced
+```
+██████████████████░░░ 85%
+```
+
+**Profile Screening** - Advanced
+```
+███████████████████░░ 88%
+```
+
+**Model Evaluation** - Intermediate
+```
+██████████████░░░░░░░ 75%
+```
+
+---
 
 ### DevOps & Infrastructure
-| Skill | Proficiency | Experience |
-|-------|-------------|------------|
-| Docker | Advanced | Containerization, Deployment |
-| Git/GitHub | Expert | Version Control, Collaboration |
-| Vercel | Advanced | Frontend Deployment |
-| Render | Advanced | Backend Deployment |
-| AWS | Intermediate | Cloud Fundamentals |
+
+**Git/GitHub** - Expert
+```
+████████████████████░ 98%
+```
+
+**Docker** - Advanced
+```
+███████████████████░░ 90%
+```
+
+**Vercel** - Advanced
+```
+██████████████████░░░ 85%
+```
+
+**Render** - Advanced
+```
+██████████████████░░░ 85%
+```
+
+**AWS** - Intermediate
+```
+███████████░░░░░░░░░░ 70%
+```
+
+---
 
 ### Scripting & Automation
-| Skill | Proficiency | Use Cases |
-|-------|-------------|-----------|
-| PowerShell | Intermediate | System Administration |
-| Batchfile | Intermediate | Windows Automation |
+
+**PowerShell** - Intermediate
+```
+████████████░░░░░░░░░ 68%
+```
+
+**Batchfile** - Intermediate
+```
+███████████░░░░░░░░░░ 65%
+```
+
+---
+
+## Proficiency Legend
+
+```
+████████████████████░  Expert (90%+)
+██████████████████░░░  Advanced (80-89%)
+██████████████░░░░░░░  Intermediate (60-79%)
+```
 
 ---
 
