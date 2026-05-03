@@ -1,172 +1,192 @@
-# Hey, I'm Olivier 👋
+# Olivier NSENGIMANA
 
-**Software Engineer | Intelligent Systems Builder** from Kigali, Rwanda
+**Software Engineer | Full-Stack Developer | Intelligent Systems Builder**
 
-I engineer intelligent, scalable software systems that solve real-world problems. My passion lies in building AI-assisted decision systems, full-stack applications, and products that create measurable impact.
-
----
-
-## 🎯 Core Focus
-**Intelligent Systems** — Building systems that are technically reliable, emotionally clear, and operationally scalable.
+Kigali, Rwanda | [nsengimanaolivier100@gmail.com](mailto:nsengimanaolivier100@gmail.com) | +250 786 856 578
 
 ---
 
-## 🛠️ Tech Stack
+## Overview
 
-### Frontend
-![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-84-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-82-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-88-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### Backend
-![Python](https://img.shields.io/badge/Python-92-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-90-092E20?style=for-the-badge&logo=django&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-88-009688?style=for-the-badge)
-
-### Data & AI
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-86-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![ML/AI](https://img.shields.io/badge/ML%2FAI-82-FF6B6B?style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS-70-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+I engineer scalable, intelligent software systems that solve real-world problems. My expertise spans full-stack web development, AI/ML systems, mobile applications, and cloud infrastructure. I focus on building products that are technically sound, architecturally clean, and operationally reliable.
 
 ---
 
-## 📊 Quick Stats
+## Technical Skills
 
-- **21** Projects Built
-- **10** Systems Designed
-- **6** Certificates & Honors
-- **2** Hackathons (won prize at HATANA)
-- **Available for Work** ✅
+### Frontend Development
+- **Languages**: HTML, CSS, JavaScript, TypeScript
+- **Frameworks**: React, Next.js
+- **Styling**: Tailwind CSS
+- **State Management**: React Context, Advanced React patterns
 
----
+### Backend Development
+- **Python**: Django, Django REST Framework
+- **Node.js**: JavaScript runtime for server-side applications
+- **C#**: Object-oriented programming
+- **ASP.NET Core**: C# web framework
 
-## 🚀 Featured Projects
+### Mobile Development
+- **Flutter**: Cross-platform framework (iOS, Android)
+- **Dart**: Flutter's programming language
 
-### 🏥 [MedLink System](https://github.com/kingblessolivier/medlink-system)
-A platform connecting patients with doctors and nearby hospitals, reducing wait times.
-- **Tech**: React, Django, PostgreSQL, Maps API
-- **Impact**: Won HATANA Hackathon prize
+### DevOps & Infrastructure
+- **Containerization**: Docker
+- **Cloud Platforms**: Vercel, Render, AWS Fundamentals
+- **Version Control**: Git, GitHub
 
-### 🤖 [AI Profile Screening System](https://github.com/kingblessolivier/Ai-Profile-Screening-System)
-Machine learning system for analyzing and ranking candidate profiles for HR recruitment.
-- **Tech**: Python, Machine Learning, Django
-- **Focus**: Fairness, explainability, ranking speed
+### Scripting & Automation
+- **PowerShell**: System administration and automation
+- **Batchfile**: Windows batch scripting
 
-### 🎬 [CineRec](https://github.com/kingblessolivier/CineRec)
-Intelligent movie recommendation engine with ML-powered suggestions.
-- **Tech**: Python, Django, ML
-- **Feature**: Trend-aware recommendations with analytics dashboard
+### Databases & Data
+- **Relational**: PostgreSQL, MySQL
+- **NoSQL**: MongoDB
+- **Data Processing**: Feature extraction, data preprocessing
 
-### 🏘️ [Property Management System](https://github.com/kingblessolivier/Property_management)
-Centralized platform for managing tenants, rent, and property records.
-- **Tech**: Django, PostgreSQL
-- **Impact**: Reduced payment tracking issues & missed follow-ups
-
-### 🏛️ [Citizen Engagement System](https://github.com/kingblessolivier/citizen_engagement_system)
-Platform connecting citizens with public services and feedback systems.
-- **Tech**: Django, REST API
-- **Impact**: Enabled clearer government-citizen communication
-
-### 📚 [ClassHub](https://github.com/kingblessolivier/ClassHub)
-Academic assignment submission and management system.
-- **Tech**: Django, MySQL
-- **Feature**: Unified grading & feedback workflow
+### AI & Machine Learning
+- **Recommendation Systems**: Movie recommendations, content suggestion engines
+- **Profile Screening**: Candidate evaluation and ranking
+- **Model Evaluation**: Performance metrics and validation
 
 ---
 
-## 💼 System Design Philosophy
+## Architecture & System Design
 
-I architect systems across three layers:
+### Three-Layer System Architecture
 
 ```
-┌─────────────────────────────────────────┐
-│  FRONTEND LAYER                         │
-│  • React UI • Routing • State + UX      │
-└─────────────────────────────────────────┘
-           ↓
-┌─────────────────────────────────────────┐
-│  BACKEND LAYER                          │
-│  • Django REST APIs • Auth & RBAC       │
-│  • Business Logic • Async Workers       │
-└─────────────────────────────────────────┘
-           ↓
-┌─────────────────────────────────────────┐
-│  DATA + AI LAYER                        │
-│  • PostgreSQL/MySQL • Feature Extraction│
-│  • Model Inference • Monitoring Insights│
-└─────────────────────────────────────────┘
+CLIENT LAYER
+├─ React / Next.js UI
+├─ TypeScript for type safety
+├─ Responsive design with Tailwind CSS
+└─ Client-side validation & routing
+
+API & BUSINESS LOGIC LAYER
+├─ Django REST APIs / Node.js / ASP.NET Core
+├─ Authentication & Role-Based Access Control
+├─ Service layer for business logic
+└─ Async task processing with workers
+
+DATA & PERSISTENCE LAYER
+├─ PostgreSQL / MySQL for relational data
+├─ MongoDB for flexible schemas
+├─ Feature extraction pipelines
+├─ ML model inference
+└─ Data monitoring and insights
 ```
 
 ---
 
-## 🎓 Education & Experience
+## Projects & Work
 
-**University of Rwanda** — Bachelor in Information Technology (Expected 2027)
-- Core studies in software engineering, systems design, applied computing
+### Healthcare Technology
+**MedLink System** - [GitHub](https://github.com/kingblessolivier/medlink-system)
+- Appointment booking platform connecting patients with healthcare providers
+- Tech Stack: React, Django, PostgreSQL, Maps API
+- Key Features: Real-time hospital discovery, appointment scheduling, notification system
 
-**Equity Bank Rwanda** — Bank Teller Intern (7 months)
-- Handled transactions, cash balancing, frontline customer operations
+### AI & Machine Learning
+**AI Profile Screening System** - [GitHub](https://github.com/kingblessolivier/Ai-Profile-Screening-System)
+- Machine learning pipeline for candidate evaluation and ranking
+- Tech Stack: Python, Machine Learning, Django
+- Focus: Feature extraction, scoring algorithms, explainable AI
 
-**Equity Leaders Program** — Customer Service Intern (3 months)
-- Customer issue resolution, service communication, experience quality
+**Candidate Screening System** - [GitHub](https://github.com/kingblessolivier/candidate_screening_system)
+- Automated HR recruitment evaluation tool
+- Tech Stack: Python, Django, AI/ML
+- Features: Profile analysis, scoring API, recruiter dashboard
+
+**CineRec** - [GitHub](https://github.com/kingblessolivier/CineRec)
+- Movie recommendation engine with analytics
+- Tech Stack: Python, Django, Machine Learning
+- Features: Collaborative filtering, trend analysis, performance dashboards
+
+### Property Management
+**Property Management System** - [GitHub](https://github.com/kingblessolivier/Property_management)
+- Full-stack application for tenant and rent management
+- Tech Stack: Django, PostgreSQL
+- Features: Payment tracking, tenant profiles, automated notifications
+
+### Civic & Public Services
+**Citizen Engagement System** - [GitHub](https://github.com/kingblessolivier/citizen_engagement_system)
+- Platform for government-citizen feedback and service requests
+- Tech Stack: Django, REST APIs
+- Features: Ticket management, workflow automation, role-based access
+
+### Education Technology
+**ClassHub** - [GitHub](https://github.com/kingblessolivier/ClassHub)
+- Academic assignment submission and management platform
+- Tech Stack: Django, MySQL
+- Features: Assignment submission, grading workflow, feedback system
 
 ---
 
-## 📜 Certifications
+## Professional Experience
 
-- ✅ **HATANA Hackathon** — Mastercard / University of Rwanda (2025)
-- ✅ **I Star Hackathon** — Participant Certificate (2024)
-- ✅ **Cisco Cybersecurity** — Introduction to Cybersecurity (2024)
-- ✅ **freeCodeCamp** — Responsive Web Design (2023)
-- ✅ **UniAthena** — Digital Marketing Certificate (2024)
-- ✅ **freeCodeCamp** — C# Fundamentals (2023)
+### Equity Bank Rwanda
+**Bank Teller Intern** (7 months)
+- Managed financial transactions with accuracy
+- Cash balancing and reconciliation
+- Customer service operations
+
+### Equity Leaders Program
+**Customer Service Intern** (3 months)
+- Customer issue resolution and support
+- Service quality management
+- Branch operations support
 
 ---
 
-## 🌍 Let's Connect
+## Education
 
-- **Email**: [nsengimanaolivier100@gmail.com](mailto:nsengimanaolivier100@gmail.com)
-- **GitHub**: [@kingblessolivier](https://github.com/kingblessolivier)
-- **LinkedIn**: [Olivier NSENGIMANA](https://linkedin.com/in/placeholder)
+**University of Rwanda**
+Bachelor of Science in Information Technology (Expected Graduation: 2027)
+- Core Courses: Software Engineering, Systems Design, Database Management, Applied Computing
+
+---
+
+## Certifications & Achievements
+
+- I Star Hackathon Participant Certificate (2024)
+- Cisco Cybersecurity - Introduction to Cybersecurity (2024)
+- freeCodeCamp - Responsive Web Design Certification (2023)
+- UniAthena - Digital Marketing Certificate (2024)
+- freeCodeCamp - C# Fundamentals Certification (2023)
+
+---
+
+## Project Statistics
+
+- 21 Projects Built
+- 10 Systems Designed
+- 6 Professional Certifications
+- Multiple production deployments
+
+---
+
+## Development Methodology
+
+- Full-stack system design and implementation
+- RESTful API architecture
+- Database schema optimization
+- TypeScript for type-safe development
+- Git-based version control and collaborative workflow
+- Containerized deployments with Docker
+- Performance monitoring and optimization
+
+---
+
+## Connect
+
+- **GitHub**: [github.com/kingblessolivier](https://github.com/kingblessolivier)
+- **LinkedIn**: [linkedin.com/in/placeholder](https://linkedin.com/in/placeholder)
 - **Twitter/X**: [@NSENGIMANAOLIV4](https://x.com/NSENGIMANAOLIV4)
-- **Instagram**: [@blessking_](https://www.instagram.com/blessking_/)
+- **Email**: nsengimanaolivier100@gmail.com
 - **Phone**: +250 786 856 578
 
 ---
 
-## 🧠 My Philosophy
+## Available for Work
 
-> Build products that are **technically reliable**, **emotionally clear**, and **operationally scalable**.
-
-I believe in outcome-driven engineering with system clarity and clean, human-centered interfaces. Every line of code should serve the user first and the architecture second.
-
----
-
-## 📝 My Journey
-
-- Started with **web basics and small utility scripts**
-- Built **full-stack academic and civic systems**
-- Moved into **AI-assisted decision systems** for practical workflows
-
----
-
-## 🎯 Vision
-
-My vision is to build **intelligent and scalable systems** that transform industries in Africa and beyond. I focus on creating solutions that are not just technically sound, but also create real, measurable impact on people's lives.
-
----
-
-<div align="center">
-
-### ✨ Currently Available for Work ✨
-
-**Let's build something intelligent together!**
-
-[View Full Portfolio](https://olivier-portfolio.vercel.app) | [Explore Projects](https://github.com/kingblessolivier?tab=repositories)
-
-</div>
-
----
-
-*Crafted in Kigali, Rwanda* 🇷🇼
+Currently available for full-time positions, contract work, and collaborative projects.
