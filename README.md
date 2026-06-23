@@ -24,7 +24,7 @@
 
 ---
 
-## 👋 About Me
+## <img src="https://api.iconify.design/mdi/account-circle.svg?color=%238B5CF6" width="26" align="center" /> About Me
 
 ```yaml
 name: Olivier NSENGIMANA
@@ -42,7 +42,7 @@ currently: "B.Sc. Information Technology @ University of Rwanda (2027)"
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://api.iconify.design/mdi/tools.svg?color=%238B5CF6" width="26" align="center" /> Tech Stack
 
 <div align="center">
 
@@ -87,7 +87,7 @@ currently: "B.Sc. Information Technology @ University of Rwanda (2027)"
 
 ---
 
-## 📊 GitHub Analytics
+## <img src="https://api.iconify.design/mdi/chart-box.svg?color=%238B5CF6" width="26" align="center" /> GitHub Analytics
 
 <div align="center">
 
@@ -106,7 +106,7 @@ currently: "B.Sc. Information Technology @ University of Rwanda (2027)"
 
 ---
 
-## 🏆 GitHub Trophies
+## <img src="https://api.iconify.design/mdi/trophy.svg?color=%238B5CF6" width="26" align="center" /> GitHub Trophies
 
 <div align="center">
 
@@ -116,7 +116,7 @@ currently: "B.Sc. Information Technology @ University of Rwanda (2027)"
 
 ---
 
-## 🧩 How I Approach Problems
+## <img src="https://api.iconify.design/mdi/puzzle.svg?color=%238B5CF6" width="26" align="center" /> How I Approach Problems
 
 ```
 ┌─────────────────────────────────────────────┐
@@ -142,25 +142,25 @@ currently: "B.Sc. Information Technology @ University of Rwanda (2027)"
 
 | Need | Stack |
 |------|-------|
-| 🌐 Web platform | React · Next.js · Django · PostgreSQL · Docker |
-| 🤖 Intelligent ranking | Python · ML pipeline · Django API · PostgreSQL |
-| 📱 Mobile first | Flutter · Dart · Node.js · Cloud |
-| 🏢 Enterprise system | C# · ASP.NET Core · SQL Server · Docker |
+| <img src="https://api.iconify.design/mdi/web.svg?color=%238B5CF6" width="16" /> Web platform | React · Next.js · Django · PostgreSQL · Docker |
+| <img src="https://api.iconify.design/mdi/robot-outline.svg?color=%238B5CF6" width="16" /> Intelligent ranking | Python · ML pipeline · Django API · PostgreSQL |
+| <img src="https://api.iconify.design/mdi/cellphone.svg?color=%238B5CF6" width="16" /> Mobile first | Flutter · Dart · Node.js · Cloud |
+| <img src="https://api.iconify.design/mdi/office-building.svg?color=%238B5CF6" width="16" /> Enterprise system | C# · ASP.NET Core · SQL Server · Docker |
 
 ---
 
-## 🚀 What I've Built
+## <img src="https://api.iconify.design/mdi/rocket-launch.svg?color=%238B5CF6" width="26" align="center" /> What I've Built
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🌐 Web Applications** — `21 built`
+**<img src="https://api.iconify.design/mdi/web.svg?color=%238B5CF6" width="18" align="center" /> Web Applications** — `21 built`
 - Full-stack platforms: healthcare, property, education, civic engagement
 - RESTful APIs serving React/Next.js frontends
 - Optimized PostgreSQL schemas
 
-**🤖 AI/ML Systems** — `10+ specialized`
+**<img src="https://api.iconify.design/mdi/robot-outline.svg?color=%238B5CF6" width="18" align="center" /> AI/ML Systems** — `10+ specialized`
 - Recommendation engines (collaborative filtering)
 - Candidate screening with ML scoring pipelines
 - Explainable profile analysis & predictions
@@ -168,11 +168,11 @@ currently: "B.Sc. Information Technology @ University of Rwanda (2027)"
 </td>
 <td width="50%" valign="top">
 
-**📱 Mobile Apps**
+**<img src="https://api.iconify.design/mdi/cellphone.svg?color=%238B5CF6" width="18" align="center" /> Mobile Apps**
 - Cross-platform development with Flutter
 - Native iOS / Android deployment
 
-**☁️ Infrastructure**
+**<img src="https://api.iconify.design/mdi/cloud-outline.svg?color=%238B5CF6" width="18" align="center" /> Infrastructure**
 - Docker containerization for consistent deploys
 - Vercel / Render automated deployments
 - AWS cloud fundamentals
@@ -183,14 +183,14 @@ currently: "B.Sc. Information Technology @ University of Rwanda (2027)"
 
 ---
 
-## 🎓 Background
+## <img src="https://api.iconify.design/mdi/school.svg?color=%238B5CF6" width="26" align="center" /> Background
 
 **Experience**
-- 🏦 **Equity Bank Rwanda** — Bank Teller Intern (7 mo) · transaction & cash operations
-- 🤝 **Equity Leaders Program** — Customer Service Intern (3 mo) · customer-centric delivery
+- <img src="https://api.iconify.design/mdi/bank.svg?color=%238B5CF6" width="16" align="center" /> **Equity Bank Rwanda** — Bank Teller Intern (7 mo) · transaction & cash operations
+- <img src="https://api.iconify.design/mdi/handshake.svg?color=%238B5CF6" width="16" align="center" /> **Equity Leaders Program** — Customer Service Intern (3 mo) · customer-centric delivery
 
 **Education**
-- 🎓 **University of Rwanda** — B.Sc. Information Technology *(Expected 2027)*
+- <img src="https://api.iconify.design/mdi/school.svg?color=%238B5CF6" width="16" align="center" /> **University of Rwanda** — B.Sc. Information Technology *(Expected 2027)*
   · Software Engineering · Systems Design · Database Management · Applied Computing
 
 **Certifications**
@@ -202,7 +202,7 @@ currently: "B.Sc. Information Technology @ University of Rwanda (2027)"
 
 ---
 
-## 🤝 Let's Connect
+## <img src="https://api.iconify.design/mdi/handshake.svg?color=%238B5CF6" width="26" align="center" /> Let's Connect
 
 <div align="center">
 
@@ -225,7 +225,7 @@ currently: "B.Sc. Information Technology @ University of Rwanda (2027)"
 
 <div align="center">
 
-> 💡 *Open to full-time roles, contract work, and collaborative technical projects.*
+> <img src="https://api.iconify.design/mdi/lightbulb-on.svg?color=%238B5CF6" width="16" align="center" /> *Open to full-time roles, contract work, and collaborative technical projects.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:8B5CF6,100:6366F1&height=120&section=footer" alt="footer" />
 
