@@ -183,6 +183,41 @@ currently: "B.Sc. Information Technology @ University of Rwanda (2027)"
 
 ---
 
+## <img src="https://api.iconify.design/mdi/star-four-points.svg?color=%238B5CF6" width="26" align="center" /> Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/kingblessolivier/Umurava-candidate-screening-system">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kingblessolivier&repo=Umurava-candidate-screening-system&theme=tokyonight&hide_border=true&title_color=8B5CF6&icon_color=EC4899&bg_color=1A1B27" alt="TalentAI" />
+</a>
+<a href="https://github.com/kingblessolivier/CineRec">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kingblessolivier&repo=CineRec&theme=tokyonight&hide_border=true&title_color=8B5CF6&icon_color=EC4899&bg_color=1A1B27" alt="CineRec" />
+</a>
+
+<a href="https://github.com/kingblessolivier/Ai-Profile-Screening-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kingblessolivier&repo=Ai-Profile-Screening-System&theme=tokyonight&hide_border=true&title_color=8B5CF6&icon_color=EC4899&bg_color=1A1B27" alt="AI Profile Screening" />
+</a>
+<a href="https://github.com/kingblessolivier/-Medilink_Rwanda">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kingblessolivier&repo=-Medilink_Rwanda&theme=tokyonight&hide_border=true&title_color=8B5CF6&icon_color=EC4899&bg_color=1A1B27" alt="MediLink Rwanda" />
+</a>
+
+<a href="https://github.com/kingblessolivier/citizen_engagement_system">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kingblessolivier&repo=citizen_engagement_system&theme=tokyonight&hide_border=true&title_color=8B5CF6&icon_color=EC4899&bg_color=1A1B27" alt="Citizen Engagement System" />
+</a>
+<a href="https://github.com/kingblessolivier/ClassHub">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kingblessolivier&repo=ClassHub&theme=tokyonight&hide_border=true&title_color=8B5CF6&icon_color=EC4899&bg_color=1A1B27" alt="ClassHub" />
+</a>
+
+</div>
+
+<div align="center">
+
+<sub><b>TalentAI</b> · Gemini-powered candidate screening &nbsp;•&nbsp; <b>CineRec</b> · collaborative-filtering movie recommender &nbsp;•&nbsp; <b>AI Profile Screening</b> · explainable candidate ranking &nbsp;•&nbsp; <b>MediLink Rwanda</b> · healthcare platform &nbsp;•&nbsp; <b>Citizen Engagement</b> · civic-tech platform &nbsp;•&nbsp; <b>ClassHub</b> · assignment submission system</sub>
+
+</div>
+
+---
+
 ## <img src="https://api.iconify.design/mdi/school.svg?color=%238B5CF6" width="26" align="center" /> Background
 
 **Experience**
