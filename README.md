@@ -18,8 +18,8 @@
   </a>
   <img src="https://img.shields.io/badge/Based%20in-Kigali%2C%20Rwanda-EC4899?style=flat-square" alt="location" />
   <img src="https://img.shields.io/badge/Open%20to-Work%20%26%20Collaboration-22C55E?style=flat-square" alt="status" />
-  <a href="https://nsolivier.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-nsolivier.netlify.app-8B5CF6?style=flat-square&logo=netlify&logoColor=white" alt="portfolio" />
+  <a href="https://nsolivier.me">
+    <img src="https://img.shields.io/badge/Portfolio-nsolivier.me-8B5CF6?style=flat-square&logo=netlify&logoColor=white" alt="portfolio" />
   </a>
 </p>
 
@@ -244,7 +244,7 @@ currently: "B.Sc. Information Technology @ University of Rwanda (2027)"
 
 <div align="center">
 
-<a href="https://nsolivier.netlify.app">
+<a href="https://nsolivier.me">
   <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=netlify&logoColor=white" alt="portfolio" />
 </a>
 <a href="https://github.com/kingblessolivier">
